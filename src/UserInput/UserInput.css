@@ -1,0 +1,17 @@
+.form-wrapper {
+    color: palevioletred;
+    font-size: 1em;
+    padding: 20px 0;
+    border: 2px solid palevioletred;
+}
+
+.form-wrapper label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form-wrapper input:hover,
+.form-wrapper input:active,
+.form-wrapper input:focus {
+    outline: 1px solid #00B2CA;
+}
